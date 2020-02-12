@@ -1,4 +1,4 @@
-const multer = require("multer");
+const multer = require("./node_modules/multer");
 const path = require("path");
 const crypto = require("crypto");
 

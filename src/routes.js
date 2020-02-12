@@ -1,5 +1,5 @@
-const express = require("express");
-const multer = require("multer");
+const express = require("./node_modules/express");
+const multer = require("./node_modules/multer");
 const multerConfig = require("./config/multer");
 const routes = express.Router();
 
