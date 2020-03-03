@@ -15,7 +15,7 @@ io.on("connection", socket => {
 });
 
 mongoose.connect(
-  "mongodb+srv://Lennyk:simone20@lenigbox-h5zen.gcp.mongodb.net/lenigBox?retryWrites=true&w=majority",
+  "mongodb+srv://CREDENTIALS@lenigbox-h5zen.gcp.mongodb.net/lenigBox?retryWrites=true&w=majority",
   {
     useNewUrlParser: true
   }
